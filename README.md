@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwingadhvi&label=Profile%20views&color=0e75b6&style=flat" alt="ashwingadhvi" /> </p>
 
-- 🔭 I’m currently working on **Car Rental Project**
+- 🔭 I’m currently working on **Charusat CDPC Training & Placement Project**
 
 - 🌱 I’m currently learning **React Js**
 
