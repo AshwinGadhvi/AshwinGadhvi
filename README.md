@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Charusat CDPC Training & Placement Project**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Node Js And Express**
 
 - 📝 I regularly write articles on [https://digitalashwinblog.blogspot.com/](https://digitalashwinblog.blogspot.com/)
 
